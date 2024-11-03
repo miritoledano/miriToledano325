@@ -22,7 +22,7 @@ Enthusiastic Full Stack Developer with extensive knowledge of multiple programmi
 - **Technologies**: .NET Core, Web API, Entity Framework
 - **Databases**: SQL Server, MongoDB
 - **Operating Systems**: Windows, Linux
-- **Tools**: GitHub, Docker, Render, Git
+- **Tools**: GitHub, netlify, Render, Git
 - **Mathematics**: Boolean and linear algebra, statistics, probability, sequences, logic
 
 ---
