@@ -1,5 +1,5 @@
 
-#### 👋 Hello, I'm miri toledano 🔍
+# 👋 Hello, I'm miri toledano 🔍
 
 ### 🌟 Profile
 Enthusiastic Full Stack Developer with extensive knowledge of multiple programming languages and technologies. Highly self-motivated and eager to learn, with exceptional time management and teamwork skills. Proven ability to design and implement complex web applications efficiently, while adapting to new challenges and technologies.
