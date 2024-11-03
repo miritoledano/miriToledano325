@@ -5,7 +5,8 @@
 📞 Phone: +972 548553246
 📧 Email: mt0548553246@gmail.com
 🌐 GitHub: miriToledano325
----
+<hr style="border: 3px solid gray;"/>
+
 **🔧 Skills and Expertise**
 ● Programming Languages: Python, Java, C#
 ● Web Development: HTML5, CSS3, JavaScript, Node.js, XML, React, Angular 13/17
