@@ -1,48 +1,41 @@
-# miriToledano325
-👋 Hello, I'm miri toledano 🔍
-💻 Full Stack Developer
+### 🌟 Profile
+B.Sc. in Software Engineering with in-depth knowledge of multiple programming languages. Highly self-motivated and eager to learn, with excellent time management and teamwork skills. 
 
-📞 Phone: +972 548553246
-📧 Email: mt0548553246@gmail.com
-🌐 GitHub: miriToledano325
+---
 
-<hr style="border: 3px solid gray;"/>
+### 💼 Professional Experience
+- **Full Stack Web Developer**  
+  - Contact: 0548553246  
+  - Email: mt0548553246@gmail.com
 
-**🔧 Skills and Expertise**
-● Programming Languages: Python, Java, C#
-● Web Development: HTML5, CSS3, JavaScript, Node.js, XML, React, Angular 13/17
-● Technologies: React, Angular, .NET Core, Web API, Entity Framework
-● Databases: SQL Server, MongoDB
-● Operating Systems: Windows, Linux
-● Tools: GitHub, Docker, Render, Git
-● Mathematics: Boolean and linear algebra, statistics, probability, sequences, logic
-● Additional Courses: Data Structures, Algorithms,excel
-● Extended Studies: Operating systems, communication and networks, information systems analysis, technical and spoken English
+---
 
-<hr style="border: 3px solid gray;"/>
+### 🎓 Education
+- Software Engineering Studies, Machat  
+  - Graduated: July 2024
 
-**🌐 Languages**
-Hebrew: Native
-English: Advanced
-🌟 About Me
-Graduate of Software Engineering studies with in-depth knowledge of multiple programming languages.
-Highly self-motivated, eager to learn, and ambitious, with strong time management skills and the ability to work under pressure.
-Excellent interpersonal communication skills and a strong team player. Looking for an opportunity to invest,
-grow, and contribute my skills and dedication.
+---
 
-<hr style="border: 3px solid gray;"/>
+### 🔧 Skills and Expertise
+- **Programming Languages**: Python, Java, C#
+- **Web Development**: HTML5, CSS3, JavaScript, Node.js, React, Angular 13/17
+- **Technologies**: .NET Core, Web API, Entity Framework
+- **Databases**: SQL Server, MongoDB
+- **Operating Systems**: Windows, Linux
+- **Tools**: GitHub, Docker, Render, Git
+- **Mathematics**: Boolean and linear algebra, statistics, probability, sequences, logic
 
-**🚀 Practicum & Professional Experience**
-Advanced Stock Management
-Developed a system for daily management and updates of stock data using the Yahoo Finance API,
-storing data in CSV format and implementing bulk inserts for efficient parallel processing of large data volumes
-. Data is updated in a SQL Server database, utilizing Entity Framework and stored procedures for optimized performance and management.
-The system includes caching with Node Cache, data compression using Zlib, and automation of stock data update processes for maximum efficiency and performance.
+---
 
-<hr style="border: 3px solid gray;"/>
+### 🛠️ Projects
+- **Advanced Appointment Management Website**  
+  Developed using .NET 8 and Web API with a three-layer architecture. Used Entity Framework and Dependency Injection for writing logic. Implemented JWT authentication.
 
-Technologies: Node.js, SQL Server
-DiversiTech Practicum:
-Developed a project for managing an educational institution using Java Spring Boot with microservices for the backend and Angular for the frontend, utilizing Agile methodology. Deployed the project on Render.
+- **Stock Management System (Part of Practicum)**  
+  Developed a system using Yahoo Finance API for daily updates of stock data using Node.js and SQL Server. Implemented bulk insert and efficient data processing.
 
-**Thank you for visiting my profile! Feel free to reach out through the contact details above.**
+---
+
+### 🌐 Languages
+- **Hebrew**: Native  
+- **English**: Very Good  
