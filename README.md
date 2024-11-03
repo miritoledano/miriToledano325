@@ -5,6 +5,7 @@
 📞 Phone: +972 548553246
 📧 Email: mt0548553246@gmail.com
 🌐 GitHub: miriToledano325
+
 <hr style="border: 3px solid gray;"/>
 
 **🔧 Skills and Expertise**
@@ -17,7 +18,8 @@
 ● Mathematics: Boolean and linear algebra, statistics, probability, sequences, logic
 ● Additional Courses: Data Structures, Algorithms,excel
 ● Extended Studies: Operating systems, communication and networks, information systems analysis, technical and spoken English
----
+
+<hr style="border: 3px solid gray;"/>
 
 **🌐 Languages**
 Hebrew: Native
@@ -28,12 +30,16 @@ Highly self-motivated, eager to learn, and ambitious, with strong time managemen
 Excellent interpersonal communication skills and a strong team player. Looking for an opportunity to invest,
 grow, and contribute my skills and dedication.
 
+<hr style="border: 3px solid gray;"/>
+
 **🚀 Practicum & Professional Experience**
 Advanced Stock Management
 Developed a system for daily management and updates of stock data using the Yahoo Finance API,
 storing data in CSV format and implementing bulk inserts for efficient parallel processing of large data volumes
 . Data is updated in a SQL Server database, utilizing Entity Framework and stored procedures for optimized performance and management.
 The system includes caching with Node Cache, data compression using Zlib, and automation of stock data update processes for maximum efficiency and performance.
+
+<hr style="border: 3px solid gray;"/>
 
 Technologies: Node.js, SQL Server
 DiversiTech Practicum:
